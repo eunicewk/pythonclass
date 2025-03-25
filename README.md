@@ -1,2 +1,2 @@
 # pythonclass
-This is a collection of what I do in my Programming class
+This is a collection of small projects that I do in my Programming class
